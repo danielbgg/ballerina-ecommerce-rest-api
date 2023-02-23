@@ -1,0 +1,8 @@
+USER = "choreo"
+PASSWORD = "wso2!234"
+HOST = "sahackathon.mysql.database.azure.com"
+PORT = 3306
+DATABASE = "daniel_db"
+BASE_SHIPPING = 21.00
+BASE_TAX = 0.12
+SERVICE_PORT = 8090
